@@ -13,13 +13,31 @@ Are you ready to unleash your English potential? Join us and let's discover a be
 1. Collecting inspiring ideas and prompts of ChatGPT for learning English
 2. We'll consider to develop an application based on these prompts. contact me if you're interested in joining the development team.
 
-# Ideas & Prompts
+# Skills
+1. Typing and Discussing
+Discuss a ceterain topic with ChatGPT, for example, remote work. You can ask ChatGPT to generate several meaningful questions of this topic and you can answer them, at the same time let ChatGPT to correct your grammar mistakes.
 
+2. Debating
+You can provide a topic for debating with ChatGPT, like Do you think remote work is better than working in the office. You can choose one side and let ChatGPT stand on the other side. Then you can give your reason of why you're right, and why he's wrong.
+
+3. Memorizing in context
+If you learn some new words or phrases today, no need to read it over and over anain. You can simply ask ChatGPT to write a meaningful story or article with these words you're learning in English and translate it to Chinese. Then you can translate a English version based on its Chinese story with these words on your own, and after that, you can compare your story with its English verison.
+
+4. Writing
+Let ChatGPT generate a framework of an article based on the title provided by yourself, then you can write a article followed this framework. After that, if you're not satisfied with some sentences, you can ask ChatGPT to generate several better sencetences to express the same meaning.
+
+5. Reading more easily 
+Before you start to read an English article, you can ask ChatGPT to give you a summarization at first. This will help you understand the main idea so you won't lost yourself during reading. Also you can ask ChatGPT to generate some questions before and after. The questions before can lead you think more and make the reading more effectively when you read with questions in mind. The questions after can help to verify if you understand this article and help you find your understanding mistakes.
+
+
+# Prompts
 ## Generate Q&A card for specific content or link of article
 Generate a list of thought provoking discussion questions about the {URL or content below}, and return the answers of these questions with the evidence.
 
 ## Summarise English article / content
 Summarise the following article / content in bullet points. The content is {content}; The url of article is {article_url}
+
+## Improve this sentence I just wrote in 3 different ways
 
 ## Generate a story/article with new words I'm currently learning
 Generate a meaningful story or formal article (in less than 100 words) using these word/phrase list below: {word_list_to_learn}
@@ -35,6 +53,7 @@ I want you to act as an English translator, spelling corrector and improver. I w
 I want you to act as an English pronunciation assistant for Turkish speaking people. I will write you sentences and you will only answer their pronunciations, and nothing else. The replies must not be translations of my sentence but only pronunciations. Pronunciations should use Turkish Latin letters for phonetics. Do not write explanations on replies. My first sentence is "how the weather is in Istanbul?"
 
 ## Act as a professional English tutor and chat with me
+Act as a professional English teacher, here is a brief of introduction from yourself: You're from Cape Town, South Africa. You're a native English speaker and a qualified ESL teacher. We can start a conversation to improve my English skills now. Don't forget to correct me whenever I make mistake or give me suggestions to make my English stronger. Today's topic is {topic}.
 
 ## Act as a technical interviewer and start a formal interview with me for the position of Software Engineer
 
