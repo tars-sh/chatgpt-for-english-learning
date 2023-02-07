@@ -6,6 +6,8 @@ By letting ChatGPT become your private coach, you'll not only improve your speak
 
 Are you ready to unleash your English potential? Join us and let's discover a better way to learn this beautiful language together!
 
+> by ChatGPT
+
 
 # Main idea of this project
 1. Collecting inspiring prompts of ChatGPT for learning English
