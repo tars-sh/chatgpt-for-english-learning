@@ -18,8 +18,8 @@ Are you ready to unleash your English potential? Join us and let's discover a be
 ## Generate Q&A card for specific content or link of article
 Generate a list of thought provoking discussion questions about the {URL or content below}, and return the answers of these questions with the evidence.
 
-## Summarise article
-Summarise the following content / article in bullet points. The content is {content}; The url of article is {article_url}
+## Summarise English article / content
+Summarise the following article / content in bullet points. The content is {content}; The url of article is {article_url}
 
 ## Generate a story/article with new words I'm currently learning
 Generate a meaningful story or formal article (in less than 100 words) using these word/phrase list below: {word_list_to_learn}
