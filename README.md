@@ -26,8 +26,11 @@ If you learn some new words or phrases today, no need to read it over and over a
 4. Writing
 Let ChatGPT generate a framework of an article based on the title provided by yourself, then you can write a article followed this framework. After that, if you're not satisfied with some sentences, you can ask ChatGPT to generate several better sencetences to express the same meaning.
 
-5. Reading more easily 
+5. Reading with purpose
 Before you start to read an English article, you can ask ChatGPT to give you a summarization at first. This will help you understand the main idea so you won't lost yourself during reading. Also you can ask ChatGPT to generate some questions before and after. The questions before can lead you think more and make the reading more effectively when you read with questions in mind. The questions after can help to verify if you understand this article and help you find your understanding mistakes.
+
+6. Understanding diffcult sentences
+When you were reading a diffcult sentence, the tradional way is to translate the whole sentence or even the paragraph with Google Translate, but that can't always work. Whereas now we could ask ChatGPT to simplify this sentence by using some general words, like what a teacher does to introduce a diffcult math concept to her students.
 
 
 # Prompts
