@@ -13,7 +13,7 @@ Are you ready to unleash your English potential? Join us and let's discover a be
 1. Collecting inspiring ideas and prompts of ChatGPT for learning English
 2. We'll consider to develop an application based on these prompts. contact me if you're interested in joining the development team.
 
-# Skills
+# Scenario. Where can ChatGPT help you?
 1. Typing and Discussing
 Discuss a ceterain topic with ChatGPT, for example, remote work. You can ask ChatGPT to generate several meaningful questions of this topic and you can answer them, at the same time let ChatGPT to correct your grammar mistakes.
 
@@ -63,6 +63,9 @@ Act as a professional English teacher, here is a brief of introduction from your
 
 # 中国用户
 国内用户如果对使用ChatGPT来学习英语感兴趣，可以联系我入群。
+
+
+
 
 # License
 Apache License
