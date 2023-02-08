@@ -11,7 +11,7 @@ Are you ready to unleash your English potential? Join us and let's discover a be
 
 # Main idea of this project
 1. Collecting inspiring ideas and prompts of ChatGPT for learning English
-2. We'll consider to develop an application based on these prompts. contact me if you're interested in joining the development team.
+2. We may consider to develop an application based on these prompts. contact me if you're interested in joining the development team.
 
 # Scenario. Where can ChatGPT help you?
 1. Typing and Discussing
