@@ -64,7 +64,7 @@ Act as a professional English teacher, here is a brief of introduction from your
 # 中国用户
 国内用户如果对使用ChatGPT来学习英语感兴趣，可以联系我入群。
 
-![image](https://user-images.githubusercontent.com/103025229/217418047-1f309cb1-e7fc-4c8b-bdd8-1d8a1e8859ff.png)
+<img width="400" alt="Screenshot" src="https://user-images.githubusercontent.com/103025229/217418047-1f309cb1-e7fc-4c8b-bdd8-1d8a1e8859ff.png"/>
 
 
 
