@@ -11,7 +11,6 @@ Are you ready to unleash your English potential? Join us and let's discover a be
 
 # Main idea of this project
 1. Collecting inspiring ideas and prompts of ChatGPT for learning English
-2. We may consider to develop an application based on these prompts. contact me if you're interested in joining the development team.
 
 # Scenarios (How can ChatGPT help you?)
 1. Typing and Discussing
@@ -23,7 +22,7 @@ You can provide a topic for debating with ChatGPT, like Do you think remote work
 3. Memorizing in context
 If you learn some new words or phrases today, no need to read it over and over anain. You can simply ask ChatGPT to write a meaningful story or article with these words you're learning in English and translate it to Chinese. Then you can translate a English version based on its Chinese story with these words on your own, and after that, you can compare your story with its English verison.
 
-4. Writing
+4. Writing practice
 Let ChatGPT generate a framework of an article based on the title provided by yourself, then you can write a article followed this framework. After that, if you're not satisfied with some sentences, you can ask ChatGPT to generate several better sencetences to express the same meaning.
 
 5. Reading with purpose
@@ -32,6 +31,8 @@ Before you start to read an English article, you can ask ChatGPT to give you a s
 6. Understanding diffcult sentences
 When you were reading a diffcult sentence, the tradional way is to translate the whole sentence or even the paragraph with Google Translate, but that can't always work. Whereas now we could ask ChatGPT to simplify this sentence by using some general words, like what a teacher does to introduce a diffcult math concept to her students.
 
+7. Write IELTS articles
+You can give ChatGPT any title can ask ChatGPT to write an IELTS article for you.
 
 # Prompts
 ## Generate Q&A card for specific content or link of article
