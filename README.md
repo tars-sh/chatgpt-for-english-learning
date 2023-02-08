@@ -46,6 +46,10 @@ Summarise the following article / content in bullet points. The content is {cont
 ## Generate a story/article with new words I'm currently learning
 Generate a meaningful story or formal article (in less than 100 words) using these word/phrase list below: {word_list_to_learn}
 
+## Start a English debate
+- Let's start a debate of the topic: {debate_topic}. I'll be the supportive side, while you'll be the opposite side and you don't agree with me. Let start debate. The first sentence I'll say is :"I support this point and I agree that {debate_topic}"
+- Okay, we can finish our debate today. Please point out my English mistakes and give me some suggestions so I can improve my English at next time.
+
 ## Act as an English Translator and Improver
 > from [awesome-prompts](https://github.com/f/awesome-chatgpt-prompts#act-as-an-english-translator-and-improver)
 
