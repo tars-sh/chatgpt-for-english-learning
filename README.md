@@ -69,6 +69,11 @@ Act as a professional English teacher, here is a brief of introduction from your
 ## Act as a technical interviewer and start a formal interview with me for the position of Software Engineer
 
 
+# Tools Recommendation
+- [Talk to ChatGPT Chrome Extension](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk)
+- [Speak to ChatGPT Chrome Extension](https://chrome.google.com/webstore/detail/speak-to-chatgpt/nodogckedbjonefieafgjckbhjdehggc)
+
+
 # 中国用户
 国内用户如果对使用ChatGPT来学习英语感兴趣，可以联系我入群。
 
